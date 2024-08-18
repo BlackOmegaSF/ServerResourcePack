@@ -1,0 +1,16 @@
+{
+  "header": {
+    "pack_id": "342266bb-8047-4c8f-86b9-8ef79621bb7e",
+    "name": "Fun Pack for Server",
+    "packs_version": "vr1.1.0",
+    "description": "Does lots of cool things",
+    "modules": [
+      {
+        "description": "Shamelessly stolen from the internet and modified",
+        "version": "vr1.1.0",
+        "uuid": "2eaffcba-a0db-4127-9ed1-158024b5441b",
+        "type": "resources"
+      }
+    ]
+  }
+}

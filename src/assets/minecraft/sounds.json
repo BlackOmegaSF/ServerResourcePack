@@ -1,0 +1,18 @@
+{
+	"custom.whip": {
+		"sounds": [
+			{
+				"name": "custom/whip",
+				"stream": true
+			}
+		]
+	},
+	"custom.oof": {
+		"sounds": [
+			{
+				"name": "custom/oof",
+				"stream": true
+			}
+		]
+	}
+}
