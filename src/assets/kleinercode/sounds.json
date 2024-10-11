@@ -1,16 +1,16 @@
 {
-	"custom.whip": {
+	"whip": {
 		"sounds": [
 			{
-				"name": "custom/whip",
+				"name": "kleinercode:custom/whip",
 				"stream": true
 			}
 		]
 	},
-	"custom.oof": {
+	"oof": {
 		"sounds": [
 			{
-				"name": "custom/oof",
+				"name": "kleinercode:custom/oof",
 				"stream": true
 			}
 		]
