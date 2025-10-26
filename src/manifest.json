@@ -1,16 +1,17 @@
 {
+  "format_version": 3,
   "header": {
-    "pack_id": "342266bb-8047-4c8f-86b9-8ef79621bb7e",
+    "uuid": "342266bb-8047-4c8f-86b9-8ef79621bb7e",
     "name": "Server Pack",
-    "packs_version": [1, 2, 3],
-    "description": "Does lots of cool things",
-    "modules": [
+    "version": [1, 2, 4],
+    "description": "Pack for the GAKMV server"
+  },
+  "modules": [
       {
-        "description": "Shamelessly stolen from the internet and modified",
-        "version": [1, 2, 3],
+        "description": "Main resource pack module",
+        "version": [1, 2, 4],
         "uuid": "2eaffcba-a0db-4127-9ed1-158024b5441b",
-        "type": "resources"
+        "type": "resource"
       }
     ]
-  }
 }
