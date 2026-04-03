@@ -3,13 +3,13 @@
   "header": {
     "uuid": "342266bb-8047-4c8f-86b9-8ef79621bb7e",
     "name": "Server Pack",
-    "version": [1, 2, 4],
+    "version": [1, 2, 5],
     "description": "Pack for the GAKMV server"
   },
   "modules": [
       {
         "description": "Main resource pack module",
-        "version": [1, 2, 4],
+        "version": [1, 2, 5],
         "uuid": "2eaffcba-a0db-4127-9ed1-158024b5441b",
         "type": "resource"
       }
